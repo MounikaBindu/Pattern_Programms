@@ -16,3 +16,10 @@ public class Number_pat4 {
 	}
 
 }
+
+
+//o/p:
+//	0
+//	12
+//	345
+//	6789
